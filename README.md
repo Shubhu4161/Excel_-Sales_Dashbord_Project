@@ -22,3 +22,7 @@ Developed an interactive **Sales Dashboard using Microsoft Excel** to analyze sa
 
 ## Objective
 To transform raw sales data into meaningful business insights, identify sales trends, and support data-driven decision-making through an interactive Excel dashboard.
+## Dashboard Preview
+
+![Excel Sales Dashboard](Screenshot 2026-10-22 131541.png)
+
